@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+}
+.title{
+font-size: 40px;
+color: red;
+line-height: 2px;
+}
+.title2{
+    color:rgb(240, 168, 215) ;
+    font-size: 30px;
+}
+.name{
+    color: rgb(83, 83, 83);
+    text-decoration: underline solid red;
+    font-style: italic;
+}
+.pic{
+    color: firebrick;
+}
+.para1{
+    color: rgb(121, 0, 0);
+    font-size:  24px; 
+
+}
+.box{
+    width: 300px; ;
+    height: 300px;
+    border: rgb(121, 0, 0) solid 2px;
+    background-image: url(my\ pic.jpg);
+    background-size: cover;
+}
+input{
+    background-color: antiquewhite;
+}
+.hobbies{
+    color: rgb(121, 0, 0);
+    font-size: 18px;
+}
+.m{
+    color: black;
+    font-size: 18px;
+    font-style: italic;   
+}
